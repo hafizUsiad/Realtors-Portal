@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osaid\\Desktop\\Real-Estate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\website\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\website\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\website\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\website\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\controllers\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:controllers\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\home\\admin_panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\home\\admin_panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\properties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\properties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\properties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\properties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\website\\property.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\website\\property.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\properties\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\properties\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\properties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\properties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\views\\website\\usercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:views\\website\\usercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|c:\\users\\osaid\\desktop\\real-estate\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803BE56-AB4F-49C0-82A5-6B01086F1B1F}|Real-Estate.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\about.cshtml",
+              "RelativeDocumentMoniker": "Views\\website\\about.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\about.cshtml",
+              "RelativeToolTip": "Views\\website\\about.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwJoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:45:10.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Properties\\Details.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Details.cshtml",
+              "RelativeToolTip": "Views\\Properties\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:21:20.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Properties\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Properties\\Edit.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAqwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:21:00.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Properties\\Create.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Create.cshtml",
+              "RelativeToolTip": "Views\\Properties\\Create.cshtml",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAqwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T15:20:40.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Properties\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Properties\\Index.cshtml",
+              "RelativeToolTip": "Views\\Properties\\Index.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAqwIIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T14:52:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "usercontact.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\usercontact.cshtml",
+              "RelativeDocumentMoniker": "Views\\website\\usercontact.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\usercontact.cshtml",
+              "RelativeToolTip": "Views\\website\\usercontact.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAqwG0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T14:52:26.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:32:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "contact.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Models\\contact.cs",
+              "RelativeDocumentMoniker": "Models\\contact.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Models\\contact.cs",
+              "RelativeToolTip": "Models\\contact.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:18:50.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\website\\contact.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\contact.cshtml",
+              "RelativeToolTip": "Views\\website\\contact.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T14:05:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin_panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\Admin_panel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Admin_panel.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\Admin_panel.cshtml",
+              "RelativeToolTip": "Views\\Home\\Admin_panel.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvywAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T12:47:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "property.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\property.cshtml",
+              "RelativeDocumentMoniker": "Views\\website\\property.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\website\\property.cshtml",
+              "RelativeToolTip": "Views\\website\\property.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:45:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "website.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Controllers\\website.cs",
+              "RelativeDocumentMoniker": "Controllers\\website.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Controllers\\website.cs",
+              "RelativeToolTip": "Controllers\\website.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:45:15.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAN0BAAAAAAAAAAAuwOMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:43:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:20:45.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:08:47.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Models\\user.cs",
+              "RelativeDocumentMoniker": "Models\\user.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Models\\user.cs",
+              "RelativeToolTip": "Models\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:47:37.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\osaid\\Desktop\\Real-Estate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:08:01.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

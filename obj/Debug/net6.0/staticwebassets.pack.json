@@ -1,0 +1,1925 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Real-Estate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Real-Estate.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Website\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\css\\style.css",
+      "PackagePath": "staticwebassets\\Website\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\0.png",
+      "PackagePath": "staticwebassets\\Website\\img\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\Demo.png",
+      "PackagePath": "staticwebassets\\Website\\img\\Demo.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\call-to-action.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\call-to-action.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-apartment.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-apartment.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-building.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-building.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-condominium.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-condominium.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-deal.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-deal.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-house.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-house.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-housing.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-housing.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-luxury.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-luxury.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-neighborhood.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-neighborhood.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-search.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-search.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\icon-villa.png",
+      "PackagePath": "staticwebassets\\Website\\img\\icon-villa.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-5.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\property-6.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\property-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\rrg.png",
+      "PackagePath": "staticwebassets\\Website\\img\\rrg.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Website\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\js\\main.js",
+      "PackagePath": "staticwebassets\\Website\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Website\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Website\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\Website\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Website\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraLight.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-ExtraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-SemiBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Manrope\\Manrope-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Manrope\\Manrope-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Black.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraLight.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-ExtraLight.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-ExtraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Italic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Nunito\\Nunito-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito\\Nunito-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\carousel\\banner_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\carousel\\banner_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\people.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\people.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\people.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\people.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\people11.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\people11.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\dashboard\\shape-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\shape-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\boxed-layout.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\boxed-layout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\calendar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\calendar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\compact-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\compact-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\dark-sidebar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\dark-sidebar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\email.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\email.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\fixed-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\fixed-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\horizontal-menu-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-menu-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\horizontal-menu-light.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\horizontal-menu-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\icon-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\icon-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\login.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\portfolio.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\portfolio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\pricing.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\toggle-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\toggle-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\toggle-overlay-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\toggle-overlay-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\vertical-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\demo\\vertical-default.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demo\\vertical-default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\002-tool.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\003-interface.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\005-database.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\006-record.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\007-folder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\128\\008-archive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\128\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\002-tool.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\003-interface.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\005-database.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\006-record.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\007-folder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\256\\008-archive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\256\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\002-tool.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\003-interface.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\005-database.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\006-record.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\007-folder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\512\\008-archive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\512\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\001-interface-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\001-interface-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\002-tool.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\002-tool.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\003-interface.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\003-interface.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\004-folder-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\004-folder-1.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\005-database.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\005-database.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\006-record.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\006-record.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\007-folder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\007-folder.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\64\\008-archive.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\64\\008-archive.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\file-icons\\flag.png",
+      "PackagePath": "staticwebassets\\assets\\images\\file-icons\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\lightbox\\play-button.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\play-button.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\lightbox\\thumb-v-v-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\thumb-v-v-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\lightbox\\thumb-v-v-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\thumb-v-v-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\lightbox\\thumb-v-y-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\thumb-v-y-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\lightbox\\thumb-v-y-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightbox\\thumb-v-y-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\logo1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\1280x768\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\1280x768\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\samples\\300x300\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\samples\\300x300\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\codemirror.js",
+      "PackagePath": "staticwebassets\\assets\\js\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\dashboard-dark.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard-dark.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\assets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\data.txt",
+      "PackagePath": "staticwebassets\\assets\\js\\data.txt"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\jquery-file-upload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\select.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\settings.js",
+      "PackagePath": "staticwebassets\\assets\\js\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\assets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\js\\typeahead.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\feather\\feather.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\feather\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\feather\\fonts\\feather-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\feather\\fonts\\feather-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\feather\\fonts\\feather-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\feather\\fonts\\feather-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\feather\\fonts\\feather-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\feather\\fonts\\feather-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\feather\\fonts\\feather-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\feather\\fonts\\feather-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\select2-bootstrap-theme\\select2-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2-bootstrap-theme\\select2-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\ti-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\ti-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\ti-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\ti-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\ti-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\ti-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\ti-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\ti-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\assets\\vendors\\ti-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\ti-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osaid\\Desktop\\Real-Estate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Real-Estate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Real-Estate.props",
+      "PackagePath": "build\\Real-Estate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Real-Estate.props",
+      "PackagePath": "buildMultiTargeting\\Real-Estate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Real-Estate.props",
+      "PackagePath": "buildTransitive\\Real-Estate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

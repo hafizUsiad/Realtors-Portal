@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Agent>
+
+@{
+    ViewData["Title"] = "Agents";
+}
+
+<h2>All Agents</h2>
+<p>
+    <a href="@Url.Action("Create", "Agents")">Create New Agent</a>
+</p>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var agent in Model)
+        {
+            <tr>
+                <td>@agent.Name</td>
+                <td>@agent.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Agents", new { id = agent.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Agents", new { id = agent.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Real_Estate</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\vendors\bootstrap-maxlength\bootstrap-maxlength.min.js" />
+    <None Include="wwwroot\assets\vendors\chart.js\chart.umd.js" />
+    <None Include="wwwroot\assets\vendors\feather\fonts\feather-webfont.svg" />
+    <None Include="wwwroot\assets\vendors\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\assets\vendors\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\assets\vendors\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\assets\vendors\js\vendor.bundle.base.js" />
+    <None Include="wwwroot\assets\vendors\mdi\css\materialdesignicons.min.css.map" />
+    <None Include="wwwroot\assets\vendors\mdi\fonts\materialdesignicons-webfont.woff2" />
+    <None Include="wwwroot\assets\vendors\select2\select2.min.js" />
+    <None Include="wwwroot\assets\vendors\ti-icons\fonts\themify.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+</Project>

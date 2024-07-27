@@ -1,0 +1,32 @@
+﻿@model IEnumerable<PrivateSeller>
+
+@{
+    ViewData["Title"] = "Private Sellers";
+}
+
+<h2>All Private Sellers</h2>
+<p>
+    <a href="@Url.Action("Create", "PrivateSellers")">Create New Private Seller</a>
+</p>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var privateSeller in Model)
+        {
+            <tr>
+                <td>@privateSeller.Name</td>
+                <td>@privateSeller.Email</td>
+                <td>
+                    <a href="@Url.Action("Edit", "PrivateSellers", new { id = privateSeller.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "PrivateSellers", new { id = privateSeller.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
